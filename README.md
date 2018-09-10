@@ -1,8 +1,8 @@
 # Data for survey paper "40 Years of Cognitive Architectures"
 
-This a repository of spreadsheets with data that we gathered for the analysis and visualizations in our survey paper ["40 years of cognitive architectures: core cognitive abilities and practical applications"](https://link.springer.com/article/10.1007/s10462-018-9646-y). Each file is a table with data on various aspects of 84 cognitive architectures, e.g. perception mechanisms, vision, applications, etc., and references to relevant publications.
+This a repository of spreadsheets with data that we gathered for the analysis and visualizations presented in our survey paper ["40 years of cognitive architectures: core cognitive abilities and practical applications"](https://link.springer.com/article/10.1007/s10462-018-9646-y). Each file contains data on various aspects of 84 cognitive architectures, e.g. perception mechanisms, vision, applications, etc., with references to relevant publications.
 
-If you find this work useful in your research or use data provided here please cite:
+If you find our survey paper useful in your research or use the data provided here please cite:
 
 ```latex
 @Article{Kotseruba2018,
